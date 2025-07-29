@@ -1,6 +1,6 @@
 # Central London Tourist Website & App
 
-This is a website and a iphone app project I built using HTML, SCC, JAVVASCRIPT and many more.
+This is a website and a iphone app project I built using HTML and CSS.
 It lets users see all the Historical, Activities, Tours places, book them, rate them and give feedback. 
 
 ---
